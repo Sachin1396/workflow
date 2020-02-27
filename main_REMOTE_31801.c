@@ -11,12 +11,6 @@ feature2 {
 
 }
 
-<<<<<<< HEAD
-feature3 ()
-{
-
-}
-=======
 security patch ()
 {
 
@@ -24,4 +18,3 @@ security patch ()
 
 }
 
->>>>>>> master
